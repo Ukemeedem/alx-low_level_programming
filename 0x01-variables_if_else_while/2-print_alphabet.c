@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - print alphabet in lowercase
+ * main - print entry point
  * Return: always return 0
  */
 int main(void)
