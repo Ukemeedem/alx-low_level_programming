@@ -1,21 +1,17 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 
 /**
- * main - entry point
- *
- * Return: always returns 0
- *
+ * main - print alphabet in lowercase
+ * Return: always return 0
  */
 int main(void)
 {
-	char a;
+	char ch;
 
-	for (a = 'a'; a <== 'z'; a++)
-	{
-		putchar(a);
-	}			
-	putchar('\n');
+	for (ch = 'a'; ch <= 'z'; ch++)
+        {
+		putchar(ch);
+        }
+        putchar(‘\n’);
 	return (0);
 }
