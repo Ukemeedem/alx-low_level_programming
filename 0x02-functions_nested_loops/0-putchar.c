@@ -2,7 +2,7 @@
 
 /**
  * main - print putchar
- * Return: always return 
+ * Return: always return
  */
 
 int main(void)
@@ -19,4 +19,4 @@ int main(void)
 
 	return (0);
 
-}	
+}
